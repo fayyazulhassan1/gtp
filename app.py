@@ -1,4 +1,4 @@
 ```python
-# Simple test code
-print("Hello, World!")
+# Simple Test Code: Print Hello, World!
+print("This code prints 'Hello, World!'.")
 ```
